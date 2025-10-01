@@ -1,4 +1,7 @@
+package ejercicios.tema1.ejercicio2;
 import java.io.File;
+
+import ejercicios.tema1.ejercicio1.DirectorioNoValidoException;
 
 public class ExploradorDirectorio {
 
